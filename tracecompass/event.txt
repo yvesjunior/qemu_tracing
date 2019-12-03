@@ -1,0 +1,15 @@
+qemu:migration_bitmap_sync_start
+qemu:migration_bitmap_sync_end
+qemu:migration_throttle
+qemu:migration_completion_file_err
+qemu:migration_thread_low_pending
+qemu:migration_thread_setup_complete
+qemu:migration_thread_file_err
+qemu:migration_thread_after_loop
+qemu:vmstate_load_state_field
+qemu:savevm_section_start
+qemu:savevm_section_end
+qemu:migrate_transferred
+qemu:savevm_state_complete_precopy
+qemu:migrate_pending
+qemu:system_wakeup_request
